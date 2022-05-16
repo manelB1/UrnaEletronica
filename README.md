@@ -12,3 +12,5 @@ O primeiro voto é para Vereador, confirmando ele leva para o Prefeito
 ![image](https://user-images.githubusercontent.com/47525873/168695885-3417cb6e-e6ff-4315-9dc6-ee2bbf138c5f.png)
  E digitando numeros que não condizem com nenhum candidato, o voto vai para nulo.
  ![image](https://user-images.githubusercontent.com/47525873/168695950-9672672a-9924-4e8d-ad55-00bc806fff22.png)
+ ![image](https://user-images.githubusercontent.com/47525873/168696020-f6e4cd0f-1111-45d7-bbd4-4db1e4179046.png)
+
